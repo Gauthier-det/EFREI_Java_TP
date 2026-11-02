@@ -53,7 +53,7 @@ public class Calculator {
                 break;
         }
         
-        System.out.println("t cho : " + result);
+        System.out.println("Résultat : " + result);
         
     }
     
